@@ -1,11 +1,10 @@
 ---
 title: Emoji Support
-date: 2019-03-05
+date: 2019-03-05 00:00:00 Z
 hero: "/images/hero-3.jpg"
 excerpt: Guide to emoji usage in Hugo
 authors:
-  - Hugo Authors
-
+- Hugo Authors
 ---
 
 Emoji can be enabled in a Hugo project in a number of ways.
